@@ -2,6 +2,10 @@
 
 This repo contains publicly-viewable GeoJSON shapefiles and other related things.
 
+## Notes
+
+Follow the Looker guide, it is the best.  For some cities, you'll need to download the whole USA map (DC, NYC region which spills into NJ, etc).  This map doesn't fit in RAM if you edit it.  To deal with this, select the regions you wan to keep, and copy them into a new layer. 
+
 ## Links
 
 - Guide from Looker: 
